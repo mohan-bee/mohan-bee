@@ -10,7 +10,7 @@ I am a **Full Stack Web Developer** with a fast-learning and growth mindset. Pas
 
 [Portfolio](https://mohandev.me)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mohan-bee&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=mohan-bee&theme=dark&hide_border=false)
 
 ---
 
