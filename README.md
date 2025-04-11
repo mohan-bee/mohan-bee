@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a **Full Stack Web Developer** with a fast-learning and growth mindset. Passionate about **Game Development** and **Web Security**, I strive to create efficient and scalable solutions while continuously improving my skills.
 
@@ -14,7 +14,7 @@ I am a **Full Stack Web Developer** with a fast-learning and growth mindset. Pas
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -28,23 +28,23 @@ I am a **Full Stack Web Developer** with a fast-learning and growth mindset. Pas
 
 ---
 
-## 🏆 Achievements
+## Achievements
 - 🏅 **Winner** - ₹10,000 in Hackathon (Coimbatore, Tamil Nadu)  
   - Built a **Full-Stack Web App** using **Python & Django** for **farmers** to get insights on planting crops based on seasons & fertilizer recommendations.
 
 ---
 
-## 🔥 Projects
+## Projects
 
-🔹 **[Kepom - Realtime Music Player](https://kepom.vercel.app)** 🎵 *(MERN Stack)*  
-🔹 **[RantPlus - Chat App with Themes](https://rant-plus.vercel.app/login)** 💬 *(MERN Stack)*  
-🔹 **[TheHomieLife - Blog Application](https://thehomie.life)** ✍️ *(MERN Stack)*  
+🔹 **[Kepom - Realtime Music Player](https://kepom.vercel.app)**  *(MERN Stack)*  
+🔹 **[RantPlus - Chat App with Themes](https://rant-plus.vercel.app/login)**  *(MERN Stack)*  
+🔹 **[TheHomieLife - Blog Application](https://thehomie.life)** *(MERN Stack)*  
 🔹 **[StickyNotes - Online Notes](https://mohan-bee.github.io/Sticky-Notes/)** 📝  
-🔹 **[Kaasu - AI-Powered Financial Advisor](https://github.com/kalviumcommunity/S65_Mohan_Capstone_Kaasu) *(In Progress)* 💰**
+🔹 **[Kaasu - AI-Powered Financial Advisor](https://github.com/kalviumcommunity/S65_Mohan_Capstone_Kaasu) *(In Progress)* **
 
 ---
 
-## 📌 Hobbies & Interests
+## Hobbies & Interests
 
 🎮 **Game Development**  
 💻 **Open-Source Contributions**  
@@ -53,7 +53,7 @@ I am a **Full Stack Web Developer** with a fast-learning and growth mindset. Pas
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Mohanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan-bee&show_icons=true&theme=tokyonight)
 
@@ -64,4 +64,4 @@ I am a **Full Stack Web Developer** with a fast-learning and growth mindset. Pas
 
 [mohn08052006@gmail.com](mailto:mohn08052006@gmail.com)  
 ---
-⭐️ *Let's connect and build something amazing together!* 🚀
+*Let's connect and build something amazing together!*
