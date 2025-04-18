@@ -55,11 +55,12 @@ I am a **Full Stack Web Developer** with a fast-learning and growth mindset. Pas
 
 ## GitHub Stats
 
-![Mohanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan-bee&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-bee&layout=compact&theme=tokyonight)
+![Mohanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohan-bee&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-bee&layout=compact&theme=tokyonight)
 
 ---
+
+## Leetcode Stats
+[![Mohan's LeetCode stats](https://leetcard.jacoblin.cool/AGuLerDXpz?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/AGuLerDXpz/)
 ## Contact
 
 [mohn08052006@gmail.com](mailto:mohn08052006@gmail.com)  
