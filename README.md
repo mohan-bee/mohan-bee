@@ -60,7 +60,7 @@ I am a **Full Stack Web Developer** with a fast-learning and growth mindset. Pas
 ---
 
 ## Leetcode Stats
-[![Mohan's LeetCode stats](https://leetcard.jacoblin.cool/AGuLerDXpz?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/AGuLerDXpz/)
+[![Mohan's LeetCode stats](https://leetcard.jacoblin.cool/mohan-bee?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/u/mohan-bee/)
 ## Contact
 
 [mohn08052006@gmail.com](mailto:mohn08052006@gmail.com)  
