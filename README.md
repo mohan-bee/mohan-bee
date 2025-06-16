@@ -32,15 +32,6 @@ I am a **Full Stack Web Developer** with a fast-learning and growth mindset. Pas
 
 ---
 
-## Projects
-
-🔹 **[Kepom - Realtime Music Player](https://kepom.vercel.app)**  *(MERN Stack)*  
-🔹 **[RantPlus - Chat App with Themes](https://rant-plus.vercel.app/login)**  *(MERN Stack)*  
-🔹 **[TheHomieLife - Blog Application](https://thehomie.life)** *(MERN Stack)*  
-🔹 **[StickyNotes - Online Notes](https://mohan-bee.github.io/Sticky-Notes/)** 📝  
-🔹 **[Kaasu - AI-Powered Financial Advisor](https://github.com/kalviumcommunity/S65_Mohan_Capstone_Kaasu) *(In Progress)* **
-
----
 
 ## Hobbies & Interests
 
