@@ -24,7 +24,7 @@
 ---
 
 ## Achievements
-- 🏅 **Winner** - ₹10,000 in Hackathon (Coimbatore, Tamil Nadu)  
+- 🏅 **Winner** -  Web Hackathon (₹10k) (Coimbatore, Tamil Nadu)  
   - Built a **Full-Stack Web App** using **Python & Django** for **farmers** to get insights on planting crops based on seasons & fertilizer recommendations.
 
 ---
