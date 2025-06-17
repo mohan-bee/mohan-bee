@@ -4,7 +4,8 @@
 ---
 ## About Me
 
-I am a **Full Stack Web Developer** with a fast-learning and growth mindset. Passionate about **Game Development** and **Web Security**, I strive to create efficient and scalable solutions while continuously improving my skills.
+Loves to code with coffee | believing docs as a mentor | Currently in the Ocean of Java | Building crazy projects
+.
 
 [Portfolio.](https://mohandev.me)
 
