@@ -3,7 +3,7 @@
 
 ---
 ## About Me
-> Loves to code with coffee | believing docs as a mentor | Currently in the Ocean of Java | Building crazy projects.
+> Loves to code with coffee | believing docs as a mentor | Learning from mistakes | Building crazy projects.
 
 [Portfolio.](https://mohandev.me)
 
