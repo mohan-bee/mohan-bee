@@ -35,8 +35,10 @@
 
 🎮 **Game Development**  
 💻 **Open-Source Contributions**  
-🌐 **Internet Surfing**  
+🌐 **Internet Surfing**
+
 ---
+
 [Ping Me](mailto:mohn08052006@gmail.com)  
 ---
 *Let's connect and build something amazing together!*
