@@ -36,17 +36,7 @@
 🎮 **Game Development**  
 💻 **Open-Source Contributions**  
 🌐 **Internet Surfing**  
-
 ---
-
-## GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohan-bee&layout=compact&theme=tokyonight)
-
----
-
-## Contact
-
-[mohn08052006@gmail.com](mailto:mohn08052006@gmail.com)  
+[Ping Me](mailto:mohn08052006@gmail.com)  
 ---
 *Let's connect and build something amazing together!*
