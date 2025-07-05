@@ -1,6 +1,4 @@
-
-![WhatsApp Image 2025-06-16 at 11 34 39](https://github.com/user-attachments/assets/a8498695-d13a-40a0-acf7-f8bc460fbfcc)
-
+![Group 2-2](https://github.com/user-attachments/assets/fe2a305d-aaea-44a5-900d-6db86adc15e7)
 ---
 ## About Me
 > Loves to code with coffee | believing docs as a mentor | Learning from mistakes | Building crazy projects.
