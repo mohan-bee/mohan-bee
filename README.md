@@ -1,7 +1,7 @@
 ![Group 2-2](https://github.com/user-attachments/assets/fe2a305d-aaea-44a5-900d-6db86adc15e7)
 ---
 ## About Me
-> Loves to code with coffee | believing docs as a mentor | Learning from mistakes | Building crazy projects.
+> Loves to code with coffee |  believing docs as a mentor | Learning from mistakes | Building crazy projects.
 
 [Portfolio.](https://mohandev.me) 
 [Showcase](https://app.kalvium.community/showcase/mohanraja8879)
