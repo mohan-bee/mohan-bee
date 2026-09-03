@@ -1,8 +1,8 @@
 hi, i am mohan, hybrid engineer , passion with computer science , crazy with electronics 
 
-currently contribution in tscircuit ecosystem  
+currently contributing in tscircuit ecosystem  
 
-mainly in schematic algorithm repos and fabrication repos. 
+mainly in schematic algorithm repos
 
 goal is to learn electronics on the way .. 
 
